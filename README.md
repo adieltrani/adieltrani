@@ -1,6 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=61a7ed&height=110&section=header"/>
-
-
 
 <div align="center">
   <H1>
@@ -37,12 +34,5 @@
     
   ## 
  
-<div align="center"> 
-  <a href="https://www.instagram.com/trani_pg/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/-Instagram-4692de?style=for-the-badge&logo=instagram&logoColor=wite;" target="_blank"></a>
- <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-4692de?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "#"><img src="https://img.shields.io/badge/-Gmail-4692de?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-4692de?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=61a7ed&height=110&section=footer"/>
+
