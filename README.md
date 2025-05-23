@@ -1,20 +1,20 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=61a7ed&height=110&section=header"/>
 
 
-<html>
+
 <div align="center">
   <p style="font-family: monospace; color: #FFFFFF; font-size: 35px; line-height: 1.4em;">
-    <span style="color: 4692de">console</span>.log(<span style="color:4692de">'Hello World'</span>); <br>
+    <span style="color:#4692de">console</span>.log(<span style="color:#4692de">'Hello World'</span>); <br>
   </p>
     <p style="font-family: monospace; color: #FFFFFF; font-size: 30px; line-height: 1.4em;">
     My name is Adiel Trani <br>
   </p>
   <p style="font-family: monospace; color: #FFFFFF; font-size: 20px; line-height: 1.4em;">
-    <image height="30" align="center"  src="https://emojigraph.org/media/apple/flag-brazil_1f1e7-1f1f7.png"/> I'm from Brazil <image height="30" align="center"  src="https://emojigraph.org/media/apple/flag-brazil_1f1e7-1f1f7.png"/><br>
-    Welcome!<image align="center" height="20" src="https://emojigraph.org/media/72/apple/grinning-squinting-face_1f606.png"/>
+    <img height="30" align="center"  src="https://emojigraph.org/media/apple/flag-brazil_1f1e7-1f1f7.png"/> I'm from Brazil <image height="30" align="center"  src="https://emojigraph.org/media/apple/flag-brazil_1f1e7-1f1f7.png"/><br>
+    Welcome!<img align="center" height="20" src="https://emojigraph.org/media/72/apple/grinning-squinting-face_1f606.png"/>
   </p>
 </div>
-</html>
+
 
 
 
@@ -35,7 +35,7 @@
 
 
 
-<div align="center" style="display: inline_block"><br>
+<div align="center"><br>
         <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
         <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
         <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
