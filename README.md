@@ -7,11 +7,10 @@
 <style>
         /* Adiciona um fundo escuro para melhor visualização do texto branco */
         body {
-            background-color: #282c34; /* Um cinza escuro, pode alterar se preferir */
-            margin: 0; /* Remove margens padrão do corpo */
-            padding: 20px; /* Adiciona um pouco de preenchimento */
+            background-color: #282c34;
+            margin: 0;
+            padding: 20px; 
         }
-        /* Estilos para as imagens pequenas inline com texto */
         .inline-icon {
             height: 30px;
             vertical-align: middle;
