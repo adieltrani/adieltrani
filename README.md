@@ -8,7 +8,7 @@
   Hello World! <img height="30"src="https://emojigraph.org/media/facebook/globe-showing-europe-africa_1f30d.png" alt="Bandeira do Brasil"/><br>
   </H1>
   <H3>
-  Hi there! <img height="20"src="https://emojigraph.org/media/apple/waving-hand-light-skin-tone_1f44b-1f3fb.png"> I'm an aspiring Fullstack Developer <img height="20"src="https://emojigraph.org/media/apple/laptop_1f4bb.png"> from Brazil!<img height="30" align="center" src="https://emojigraph.org/media/apple/flag-brazil_1f1e7-1f1f7.png" alt="Bandeira do Brasil"/><br></H3> 
+  Hi there! <img height="20"src="https://emojigraph.org/media/apple/waving-hand-light-skin-tone_1f44b-1f3fb.png"> I'm an aspiring Fullstack Developer from Brazil! <img height="30" align="center" src="https://emojigraph.org/media/apple/flag-brazil_1f1e7-1f1f7.png" alt="Bandeira do Brasil"/><br></H3> 
   <H3 align="justify">I'm passionate about coding and currently honing my skills across the full stack. Always excited to learn and build new things!</H3>
 
   
@@ -17,9 +17,6 @@
 
 
 ##
-<H2 align="center">About me</H2>
-
-
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adieltrani&show_icons=true&theme=holi&hide_border=true&count_private=true&card_width=700&card_align=center" alt="GitHub Stats Adiel Trani">
@@ -28,13 +25,7 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adieltrani&layout=compact&show_icons=true&theme=holi&hide_border=true&card_width=700" alt="Top Langs Adiel Trani">
 </div>
-
-
-
-
-
-
-
+ 
 <div align="center"><br>
         <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
         <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
