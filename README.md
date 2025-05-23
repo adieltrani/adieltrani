@@ -32,7 +32,7 @@
   ## 
  
 <div align="center"> 
-  <a href="https://www.instagram.com/trani_pg/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/-Instagram-4692de?style=for-the-badge&logo=instagram&logoColor=withe;border-radius: 30px;" target="_blank"></a>
+  <a href="https://www.instagram.com/trani_pg/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/-Instagram-4692de?style=for-the-badge&logo=instagram&logoColor=wite;" target="_blank"></a>
  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-4692de?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "#"><img src="https://img.shields.io/badge/-Gmail-4692de?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vin%C3%ADcius-raniery-pereira-4b4576261/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-4692de?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
