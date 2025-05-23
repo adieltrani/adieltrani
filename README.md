@@ -3,12 +3,12 @@
 
 
 <div align="center">
-  <H1 style="font-family: monospace; color: #FFFFFF; font-size: 35px; line-height: 1.4em;">
+  <H1 style="font-family: monospace;>
     <span style="color: #4692de;">console</span><span style="color: #FFFFFF;">.</span><span style="color: #FFFFFF;">log</span><span style="color: #FFFFFF;">(</span><span style="color: #4692de;">'Hello World'</span><span style="color: #FFFFFF;">);</span> <br>
   </H1>
-  <p style="font-family: monospace; color: #FFFFFF; font-size: 30px; line-height: 1.4em;">
+  <H2 style="font-family: monospace; color: #FFFFFF; font-size: 30px; line-height: 1.4em;">
     My name is Adiel Trani <br>
-  </p>
+  </H2>
   <H2 style="font-family: monospace; color: #FFFFFF; font-size: 20px; line-height: 1.4em;">
     <img height="30" align="center" src="https://emojigraph.org/media/apple/flag-brazil_1f1e7-1f1f7.png" alt="Bandeira do Brasil"/> I'm from Brazil <img height="30" align="center" src="https://emojigraph.org/media/apple/flag-brazil_1f1e7-1f1f7.png" alt="Bandeira do Brasil"/><br>
     Welcome!<img align="center" height="20" src="https://emojigraph.org/media/72/apple/grinning-squinting-face_1f606.png" alt="Rosto sorridente"/>
