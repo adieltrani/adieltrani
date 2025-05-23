@@ -4,21 +4,23 @@
 
 
 
-<center>
-
-![](https://github-readme-stats.vercel.app/api?username=adieltrani&show_icons=true&theme=holi&hide_border=true&count_private=true&card_width=700)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adieltrani&theme=holi-theme&hide_border=true&border_radius=5&card_width=700)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adieltrani&layout=compact&show_icons=true&theme=holi&hide_border=true&card_width=700)
-
-<center/>
 
 
-
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adieltrani&show_icons=true&theme=holi&hide_border=true&count_private=true&card_width=700&card_align=center" alt="GitHub Stats Adiel Trani">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=adieltrani&theme=holi-theme&hide_border=true&border_radius=5&card_width=700" alt="GitHub Streak Adiel Trani">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adieltrani&layout=compact&show_icons=true&theme=holi&hide_border=true&card_width=700" alt="Top Langs Adiel Trani">
+</div>
 
 
 
-<div align="center" style="display: inline_block;"><br>
+
+
+
+
+<div align="center" style="display: inline_block"><br>
         <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
         <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
         <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
