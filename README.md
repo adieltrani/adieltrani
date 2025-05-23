@@ -1,5 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=61a7ed&height=110&section=header"/>
 
+
+<html>
 <div align="center">
   <p style="font-family: monospace; color: #FFFFFF; font-size: 35px; line-height: 1.4em;">
     <span style="color: 4692de">console</span>.log(<span style="color:4692de">'Hello World'</span>); <br>
@@ -12,6 +14,8 @@
     Welcome!<image align="center" height="20" src="https://emojigraph.org/media/72/apple/grinning-squinting-face_1f606.png"/>
   </p>
 </div>
+</html>
+
 
 
 
