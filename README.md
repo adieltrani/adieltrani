@@ -4,7 +4,7 @@
 
 <div align="center">
   <p style="font-family: monospace; color: #FFFFFF; font-size: 35px; line-height: 1.4em;">
-    <span style="color:#4692de">console</span>.log(<span style="color:#4692de">'Hello World'</span>); <br>
+  <span style="color: #4692de;">console</span><span style="color: #FFFFFF;">.</span><span style="color: #FFFFFF;">log</span><span style="color: #FFFFFF;">(</span><span style="color: #4692de;">'Hello World'</span><span style="color: #FFFFFF;">);</span> <br>
   </p>
     <p style="font-family: monospace; color: #FFFFFF; font-size: 30px; line-height: 1.4em;">
     My name is Adiel Trani <br>
