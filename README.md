@@ -2,18 +2,45 @@
 
 
 
-<div align="center">
-  <p style="font-family: monospace; color: #FFFFFF; font-size: 35px; line-height: 1.4em;">
-  <span style="color: #4692de;">console</span><span style="color: #FFFFFF;">.</span><span style="color: #FFFFFF;">log</span><span style="color: #FFFFFF;">(</span><span style="color: #4692de;">'Hello World'</span><span style="color: #FFFFFF;">);</span> <br>
-  </p>
-    <p style="font-family: monospace; color: #FFFFFF; font-size: 30px; line-height: 1.4em;">
-    My name is Adiel Trani <br>
-  </p>
-  <p style="font-family: monospace; color: #FFFFFF; font-size: 20px; line-height: 1.4em;">
-    <img height="30" align="center"  src="https://emojigraph.org/media/apple/flag-brazil_1f1e7-1f1f7.png"/> I'm from Brazil <image height="30" align="center"  src="https://emojigraph.org/media/apple/flag-brazil_1f1e7-1f1f7.png"/><br>
-    Welcome!<img align="center" height="20" src="https://emojigraph.org/media/72/apple/grinning-squinting-face_1f606.png"/>
-  </p>
-</div>
+<html lang="pt-BR">
+
+<style>
+        /* Adiciona um fundo escuro para melhor visualização do texto branco */
+        body {
+            background-color: #282c34; /* Um cinza escuro, pode alterar se preferir */
+            margin: 0; /* Remove margens padrão do corpo */
+            padding: 20px; /* Adiciona um pouco de preenchimento */
+        }
+        /* Estilos para as imagens pequenas inline com texto */
+        .inline-icon {
+            height: 30px;
+            vertical-align: middle;
+            margin-left: 5px;
+            margin-right: 5px;
+        }
+        .inline-icon-small {
+            height: 20px;
+            vertical-align: middle;
+            margin-left: 5px;
+        }
+</style>
+<body>
+
+  <div align="center">
+        <p style="font-family: monospace; color: #FFFFFF; font-size: 35px; line-height: 1.4em;">
+        <span style="color: #4692de;">console</span><span style="color: #FFFFFF;">.</span><span style="color: #FFFFFF;">log</span><span style="color: #FFFFFF;">(</span><span style="color: #4692de;">'Hello World'</span><span style="color: #FFFFFF;">);</span> <br>
+        </p>
+        <p style="font-family: monospace; color: #FFFFFF; font-size: 30px; line-height: 1.4em;">
+        My name is Adiel Trani <br>
+        </p>
+        <p style="font-family: monospace; color: #FFFFFF; font-size: 20px; line-height: 1.4em;">
+        <img class="inline-icon" src="https://emojigraph.org/media/apple/flag-brazil_1f1e7-1f1f7.png" alt="Bandeira do Brasil"/> I'm from Brazil <img class="inline-icon" src="https://emojigraph.org/media/apple/flag-brazil_1f1e7-1f1f7.png" alt="Bandeira do Brasil"/><br>
+        Welcome!<img class="inline-icon-small" src="https://emojigraph.org/media/72/apple/grinning-squinting-face_1f606.png" alt="Rosto sorridente"/>
+      </p>
+   </div>
+
+</body>
+</html>
 
 
 
