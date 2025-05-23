@@ -2,12 +2,14 @@
 
 <div align="center">
   <p style="font-family: monospace; color: #FFFFFF; font-size: 35px; line-height: 1.4em;">
-    Hi!😀, My name is Adiel Trani<br>
+    <span style="color: 4692de">console</span>.log(<span style="color:4692de">'Hello World'</span>); <br>
+  </p>
+    <p style="font-family: monospace; color: #FFFFFF; font-size: 30px; line-height: 1.4em;">
+    My name is Adiel Trani <br>
   </p>
   <p style="font-family: monospace; color: #FFFFFF; font-size: 20px; line-height: 1.4em;">
-    I'm from Brazil 🇧🇷<br>
-    I'm 20 years old<br>
-    Be Welcome! :)
+    <image height="30" align="center"  src="https://emojigraph.org/media/apple/flag-brazil_1f1e7-1f1f7.png"/> I'm from Brazil <image height="30" align="center"  src="https://emojigraph.org/media/apple/flag-brazil_1f1e7-1f1f7.png"/><br>
+    Welcome!<image align="center" height="20" src="https://emojigraph.org/media/72/apple/grinning-squinting-face_1f606.png"/>
   </p>
 </div>
 
@@ -44,7 +46,7 @@
   <a href="https://www.instagram.com/trani_pg/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/-Instagram-4692de?style=for-the-badge&logo=instagram&logoColor=wite;" target="_blank"></a>
  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-4692de?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "#"><img src="https://img.shields.io/badge/-Gmail-4692de?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vin%C3%ADcius-raniery-pereira-4b4576261/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-4692de?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-4692de?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
 
